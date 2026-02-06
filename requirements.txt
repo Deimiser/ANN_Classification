@@ -1,8 +1,9 @@
-tensorflow==2.15.0
+# tensorflow==2.15.0 made
+tensorflow==2.20.0 # deployment streamlit
 pandas
 numpy
 scikit-learn
 tensorboard
 matplotlib
 streamlit
-protobuf<4
+
